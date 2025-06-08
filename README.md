@@ -45,11 +45,11 @@ Rm556242 - Giovanna Laturague Bueno
 
 1. Acessar o projeto do protótipo
 
-**Link do Projeto Wokwi** : https://wokwi.com/projects/433064054962155521
+    **Link do Projeto Wokwi** : https://wokwi.com/projects/433064054962155521
 
-ou
+    ou
 
-Rodar Localmente : Baixar o projeto e pegar a pasta /GS1-IOT-DEVICE-SIM
+    Rodar Localmente : Baixar o projeto e pegar a pasta /GS1-IOT-DEVICE-SIM
 
 #### >> Como rodar localmente
 
