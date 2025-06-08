@@ -10,7 +10,7 @@
       "id": "dht1",
       "top": -18.9,
       "left": 234.6,
-      "attrs": { "temperature": "39.1", "humidity": "47" }
+      "attrs": { "temperature": "16.1", "humidity": "49.5" }
     },
     {
       "type": "wokwi-resistor",
@@ -49,12 +49,12 @@
       "blue",
       [ "h0", "v-19.2", "h-144", "v38.4", "h-211.2", "v-192", "h28.8" ]
     ],
+    [ "r1:1", "bb1:5b.g", "", [ "$bb" ] ],
+    [ "r1:2", "bb1:11b.g", "", [ "$bb" ] ],
     [ "dht1:VCC", "bb1:10b.f", "", [ "$bb" ] ],
     [ "dht1:SDA", "bb1:11b.f", "", [ "$bb" ] ],
     [ "dht1:NC", "bb1:12b.f", "", [ "$bb" ] ],
-    [ "dht1:GND", "bb1:13b.f", "", [ "$bb" ] ],
-    [ "r1:1", "bb1:5b.g", "", [ "$bb" ] ],
-    [ "r1:2", "bb1:11b.g", "", [ "$bb" ] ]
+    [ "dht1:GND", "bb1:13b.f", "", [ "$bb" ] ]
   ],
   "dependencies": {}
 }
