@@ -41,7 +41,7 @@ Rm556242 - Giovanna Laturague Bueno
     - PubSubClient (Nick O'Leary)
     - ArduinoJson (Benoit Blanchon)
 
-## Passo-a-Passo
+### Passo-a-Passo
 
 1. Acessar o projeto do protótipo
 
@@ -51,7 +51,7 @@ ou
 
 Rodar Localmente : Baixar o projeto e pegar a pasta /GS1-IOT-DEVICE-SIM
 
-### Como rodar localmente
+#### >> Como rodar localmente
 
 1.1. Instale a IDE desejada
 
