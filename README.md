@@ -68,4 +68,27 @@ Rm556242 - Giovanna Laturague Bueno
     - Sketch > Incluir Bibliotecas > Gerenciar Biliotecas
     - Busque e instale cada biblioteca citada acima
 
-(Perdão professor o mobile não funcionou)
+### Rodando o Mobile (Perdão professor o mobile não funcionou)
+
+Clone o repositório:
+
+```
+git clone https://github.com/FIAP-MOBILE/global-solution-1-semestre-thermaplus.git
+
+cd global-solution-1-semestre-thermaplus
+```
+
+Instale as dependências:
+
+```
+npm install
+```
+
+Inicie o projeto:
+
+```
+npm start
+```
+
+
+Use o Expo Go no seu dispositivo móvel para escanear o QR code que aparecerá no terminal.
