@@ -67,3 +67,5 @@ Rm556242 - Giovanna Laturague Bueno
 
     - Sketch > Incluir Bibliotecas > Gerenciar Biliotecas
     - Busque e instale cada biblioteca citada acima
+
+(Perdão professor o mobile não funcionou)
